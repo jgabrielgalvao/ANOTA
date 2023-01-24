@@ -1,0 +1,89 @@
+body
+{
+    background-color: #B386DF;
+}
+div
+{
+    display: inline-block;
+}
+a
+{
+    text-decoration: none;
+}
+.primeira_secao
+{
+    position: fixed;
+    justify-content: space-around;
+    text-align: justify; 
+    height: 100%;
+    top: 0;
+    left: 1%;
+}
+.segunda_secao
+{
+    position: fixed;
+    right: 535px;
+    top: 0;
+    height: 100%;
+}
+.segunda_secao input
+{
+    display: inline-flex;
+    position: relative;
+    width: 350px;
+    left: 0%;
+}
+.segunda_secao button
+{
+    display: inline-flex;
+    position: relative;
+    left: 0%;
+}
+.terceira_secao
+{
+    position: fixed;
+    right: 1%;
+    top: 0;
+    height: 100%;
+}
+.terceira_secao input
+{
+    display: inline-flex;
+    position: relative;
+    width: 350px;
+    left: 0%;
+}
+.terceira_secao button
+{
+    display: inline-flex;
+    position: relative;
+    left: 0%;
+}
+.titulo
+{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    left: 50%;
+}
+.titulo_tres
+{
+    font-weight: bold;
+}
+
+.botao
+{
+    opacity: 100%;
+}
+.data
+{
+    width: 40% !important;
+}
+.mudacor
+{
+    width: 25% !important;
+}
+.label_titulo
+{
+    font-weight: bolder;
+}
